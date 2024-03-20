@@ -167,9 +167,9 @@ class _DaftarRuangState extends State<DaftarRuang> {
                   margin: EdgeInsets.all(8.0),
                   child: Column(
                     children: [
-                      Image.asset('assets/room_image.jpg'),
+                      Image.asset('assets/foto/plaza1.jpg'),
                       ListTile(
-                        title: Text('Nama Tempat'),
+                        title: Text('Plaza, Halaman Parkir depan Balai Kota'),
                         subtitle: Text('Luas Kapasitas, Fasilitas, Sesi'),
                       ),
                       ButtonBar(
